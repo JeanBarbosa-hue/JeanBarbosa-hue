@@ -24,8 +24,6 @@
 
 <p>
  <br>
- 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/JeanBarbosa-hue/JeanBarbosa-hue/blob/main/assets/3.webp">
 
 
 If you want to reach out to me let me know. Looking forward to connecting with you!
